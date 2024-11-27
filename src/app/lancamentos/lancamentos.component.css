@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background: rgb(75, 188, 222);
+    color: rgb(74, 69, 82);
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+  
+  #lancamentos-lista {
+    margin: 20px;
+  }
+  
+  #lancamentos-lista article {
+    padding: 15px;
+    background: #f4f4f4;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background: rgb(75, 188, 222);
+    color: #fff;
+  }
+  

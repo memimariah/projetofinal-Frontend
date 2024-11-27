@@ -1,0 +1,74 @@
+.resenhas-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="number"] {
+    width: 60px;
+  }
+  
+  button {
+    background-color: rgb(75, 188, 222);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: rgb(4, 101, 131);
+  }
+  
+  .resenhas-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resenhas-list li {
+    background-color: #f0f0f0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .resenhas-list strong {
+    font-size: 18px;
+  }
+  
+  .resenhas-list em {
+    font-style: italic;
+    color: rgb(74, 69, 82);
+  }
+  

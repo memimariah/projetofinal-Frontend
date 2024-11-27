@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background: rgb(75, 188, 222);
+    color: rgb(74, 69, 82);
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  nav a {
+    color: rgb(74, 69, 82);
+    text-decoration: none;
+    margin: 0 15px;
+  }
+  
+  #generos-lista {
+    margin: 20px;
+    color: rgb(74, 69, 82);
+  }
+  
+  #generos-lista ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #generos-lista li {
+    padding: 8px;
+    background: #f4f4f4;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+  }
+  
+  #generos-lista a{
+    text-decoration: none;
+    color: rgb(75, 188, 222);
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background: rgb(75, 188, 222);
+    color: #fff;
+  }
+  
